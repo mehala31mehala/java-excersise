@@ -64,20 +64,6 @@ public class Linkedlist_ex {
         Flowers.removeLast();
         System.out.println(Flowers);
 
-       //
-        //
-        //
-        //
-        //
-        //
-        //
-        //
-        //
-        //
-        //
-        //
-        //
-        //
         // System.out.println("14.remove all the elements:");
        // Flowers.clear();
        // System.out.println(Flowers);

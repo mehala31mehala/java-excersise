@@ -8,6 +8,7 @@ public class segrigateoddevenex52 {
         result = oddeven(arr);
         System.out.println(Arrays.toString(result));
 
+
     }
 
     static int[] oddeven(int[] arr) {
